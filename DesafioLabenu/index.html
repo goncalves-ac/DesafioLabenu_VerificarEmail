@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <title>Projeto Labenu</title>
+</head>
+<body>
+
+    <!-- Modal de Sucesso -->
+    <div id="modalRespSucess" class="modal-container">
+        <div class="modal">
+            <button class="close">x</button>
+            <h3>Oba! E-mail enviado com sucesso. Muito obrigado <span>e-mail</span>, entraremos em contato.</h3>
+        </div>
+    </div>
+    
+
+    <!-- Modal de Erro -->
+    <div id="modalRespError" class="modal-container">
+        <div class="modal">
+            <button class="close">x</button>
+            <h3>Ops! Digite um e-mail válido.</h3>
+        </div>
+    </div>
+
+    <section class="header">
+        <h1>Projeto Seletivo Labenu</h1>
+        <img src="Labenu_logo.png" alt="Logo Labenu" title="Logo Labenu">
+        <p>Turmas de 2020</p>
+    </section>
+
+    <section class="container">
+        <div class="card">HTML</div>
+        <div class="card">CSS</div>
+        <div class="card">Javascript</div>
+    </section>
+
+    <section class="contato">
+        <input type="text" name="email" id="email" placeholder="Coloque seu e-mail para contato! :)" >
+        <button type="button" id="enviar" onclick="respEmail()">ENVIAR</button>
+    </section>
+
+
+  <!-- Código que carrega arquivos JavaScript -->
+  <script src="script.js"></script>
+
+</body>
+</html>
