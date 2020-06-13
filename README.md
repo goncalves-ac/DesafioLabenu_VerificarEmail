@@ -1,6 +1,6 @@
 # DesafioLabenu_VerificarEmail
 
-** Etapa do processo seletivo para o curso DESENVOLVIMENTO WEB FULL STACK
+Etapa do processo seletivo para o curso ***DESENVOLVIMENTO WEB FULL STACK
 
 ## Pasta DESAFIO LABENU
 
