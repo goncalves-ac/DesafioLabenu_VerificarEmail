@@ -19,5 +19,11 @@ Contém:
 - video com exemplo do desafio
 - wireframe
 
+## Site
+
+Minha tela --> <a href="https://repl.it/@goncalvesac/FantasticMeanDevice-ACG#index.html">Projeto no REPL IT</a>
+
+<img src="https://github.com/goncalves-ac/DesafioLabenu_VerificarEmail/blob/master/Extras/TelaACG.PNG" title="Minha Tela">
+
 ## Divirta-se
 - Qualquer dúvida pode me contatar, coloco-me a disposição.
